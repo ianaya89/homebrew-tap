@@ -22,6 +22,7 @@ brew install <package>
 | Package | Description | Source |
 | --- | --- | --- |
 | [`pad`](Casks/pad.rb) | Tabbed terminal scratchpad (macOS cask) | [ianaya89/scratchpad](https://github.com/ianaya89/scratchpad) |
+| [`remind`](Casks/remind.rb) | Terminal reminders with OS + phone notifications | [ianaya89/remind](https://github.com/ianaya89/remind) |
 
 ## Updating
 
