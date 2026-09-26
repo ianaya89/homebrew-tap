@@ -22,6 +22,7 @@ brew install <package>
 | Package | Description | Source |
 | --- | --- | --- |
 | [`etui`](Casks/etui.rb) | Terminal UI for browsing and managing etcd clusters | [ianaya89/etui](https://github.com/ianaya89/etui) |
+| [`hatch`](Casks/hatch.rb) | Move your dev setup to a new machine, peer to peer (secrets, configs, agents, repos) | [ianaya89/hatch](https://github.com/ianaya89/hatch) |
 | [`pad`](Casks/pad.rb) | Tabbed terminal scratchpad (macOS cask) | [ianaya89/scratchpad](https://github.com/ianaya89/scratchpad) |
 | [`remind`](Casks/remind.rb) | Terminal reminders with OS + phone notifications | [ianaya89/remind](https://github.com/ianaya89/remind) |
 | [`termiedos`](Casks/termiedos.rb) | Live football scores, standings & fixtures in your terminal (promiedos) | [ianaya89/termiedos](https://github.com/ianaya89/termiedos) |
